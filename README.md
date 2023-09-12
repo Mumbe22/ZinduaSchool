@@ -1,0 +1,2 @@
+# ZinduaSchool
+Zindua30daysSQLChallenge
